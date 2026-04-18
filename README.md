@@ -1,4 +1,4 @@
-<!-- Header Typing Animation -->
+<!-- Typing Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Prem+Shankar+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Integration" alt="Typing SVG" />
 </div>
@@ -9,14 +9,20 @@
 
 <br/>
 
-<!-- Social Badges Row -->
+<!-- Pixel Art Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="700" />
+</div>
+
+<br/>
+
+<!-- Social Badges — no GitHub link since we're already here -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premshankar123)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premshankar26112005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://prem-shankar-portfolio.lovable.app/)
-[![Resume](https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link-here)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11)
+[![Resume](https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1u8bnDQ0TgAKYUuC_Qn3n7LlvKhtsBrXL/view?usp=sharing)
 
 </div>
 
@@ -60,6 +66,8 @@ status     : 3rd Year · Open to Internships & Full-Time Opportunities
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Tools & Platforms**
 
@@ -82,10 +90,11 @@ status     : 3rd Year · Open to Internships & Full-Time Opportunities
 Stack  →  React Native · Firebase · Gemini AI · Razorpay
 ```
 
-**What I built**
 - Collaborative cart syncing in real-time using Firebase — multiple users, one shared order
 - AI-powered restaurant onboarding via Gemini 2.0 Flash — extracts menu data from physical photos with **90%+ accuracy**, cutting onboarding time by ~90%
 - Automated bill-splitting with persistent debt tracking and a live campus "Busyness" indicator
+
+**🔗 Repository** → [github.com/PremShankar11/UniEat](https://github.com/PremShankar11/UniEat)
 
 ---
 
@@ -97,10 +106,11 @@ Stack  →  React Native · Firebase · Gemini AI · Razorpay
 Stack  →  Angular · Spring Boot · PostgreSQL · Docker
 ```
 
-**What I built**
 - Angular frontend communicating with a Spring Boot REST API for fast, structured data flow
 - PostgreSQL schema with external API response caching to reduce latency on repeat queries
 - Entire multi-service stack containerized with Docker Compose — reproducible across environments
+
+**🔗 Repository** → [github.com/PremShankar11/lets-cook](https://github.com/PremShankar11/lets-cook)
 
 ---
 
@@ -112,16 +122,17 @@ Stack  →  Angular · Spring Boot · PostgreSQL · Docker
 Stack  →  Java · AI Algorithms
 ```
 
-**What I built**
 - Offline-capable chess engine with three AI difficulty levels using strategic move-calculation
 - Grandmaster match loader with replay and move-by-move analysis for structured improvement
 - Full multiplayer support with no external dependencies
+
+**🔗 Repository** → [github.com/PremShankar11/ChessMate](https://github.com/PremShankar11/ChessMate)
 
 ---
 
 ## 📌 More Projects
 
-Explore more → **[github.com/PremShankar11?tab=repositories](https://github.com/PremShankar11?tab=repositories)**
+Explore all repositories → **[github.com/PremShankar11?tab=repositories](https://github.com/PremShankar11?tab=repositories)**
 
 ---
 
@@ -146,7 +157,7 @@ Explore more → **[github.com/PremShankar11?tab=repositories](https://github.co
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premshankar123)
 [![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premshankar26112005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://prem-shankar-portfolio.lovable.app/)
-[![Resume](https://img.shields.io/badge/View_Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link-here)
+[![Resume](https://img.shields.io/badge/View_Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1u8bnDQ0TgAKYUuC_Qn3n7LlvKhtsBrXL/view?usp=sharing)
 
 </div>
 
