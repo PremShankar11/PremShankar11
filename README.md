@@ -16,7 +16,7 @@
 
 <br/>
 
-<!-- Social Badges — no GitHub link since we're already here -->
+<!-- Social Badges -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premshankar123)
@@ -90,11 +90,8 @@ status     : 3rd Year · Open to Internships & Full-Time Opportunities
 Stack  →  React Native · Firebase · Gemini AI · Razorpay
 ```
 
-- Collaborative cart syncing in real-time using Firebase — multiple users, one shared order
-- AI-powered restaurant onboarding via Gemini 2.0 Flash — extracts menu data from physical photos with **90%+ accuracy**, cutting onboarding time by ~90%
-- Automated bill-splitting with persistent debt tracking and a live campus "Busyness" indicator
-
-**🔗 Repository** → [github.com/PremShankar11/UniEat](https://github.com/PremShankar11/UniEat)
+[![Customer App](https://img.shields.io/badge/Repo-Customer_App-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/customerapp)
+[![Hotel App](https://img.shields.io/badge/Repo-Hotel_App-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/hotelapp)
 
 ---
 
@@ -106,15 +103,11 @@ Stack  →  React Native · Firebase · Gemini AI · Razorpay
 Stack  →  Angular · Spring Boot · PostgreSQL · Docker
 ```
 
-- Angular frontend communicating with a Spring Boot REST API for fast, structured data flow
-- PostgreSQL schema with external API response caching to reduce latency on repeat queries
-- Entire multi-service stack containerized with Docker Compose — reproducible across environments
-
-**🔗 Repository** → [github.com/PremShankar11/lets-cook](https://github.com/PremShankar11/lets-cook)
+[![Lets Cook](https://img.shields.io/badge/Repo-Let's_Cook-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/Lets-Cook)
 
 ---
 
-### ♟️ ChessMate &nbsp;—&nbsp; Chess Learning App
+### ♟️ OpenChess &nbsp;—&nbsp; Chess Learning App
 
 *Java chess application with an AI opponent and grandmaster match analysis tools.*
 
@@ -122,17 +115,13 @@ Stack  →  Angular · Spring Boot · PostgreSQL · Docker
 Stack  →  Java · AI Algorithms
 ```
 
-- Offline-capable chess engine with three AI difficulty levels using strategic move-calculation
-- Grandmaster match loader with replay and move-by-move analysis for structured improvement
-- Full multiplayer support with no external dependencies
-
-**🔗 Repository** → [github.com/PremShankar11/ChessMate](https://github.com/PremShankar11/ChessMate)
+[![OpenChess](https://img.shields.io/badge/Repo-OpenChess-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/OpenChess)
 
 ---
 
 ## 📌 More Projects
 
-Explore all repositories → **[github.com/PremShankar11?tab=repositories](https://github.com/PremShankar11?tab=repositories)**
+[![All Repositories](https://img.shields.io/badge/View_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11?tab=repositories)
 
 ---
 
