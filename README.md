@@ -14,7 +14,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premshankar123)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premshankar26112005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://prem-shankar-portfolio.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://prem-shankar-portfolio.lovable.app/)
+[![Resume](https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link-here)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11)
 
 </div>
@@ -32,33 +33,6 @@ focus      : Full-Stack Development · AI Integration · Real-Time Systems
 interests  : Building products that solve real problems, end to end
 status     : 3rd Year · Open to Internships & Full-Time Opportunities
 ```
-
----
-
-## 🏆 Key Highlights
-
-<table>
-  <tr>
-    <td>🤖</td>
-    <td>Automated restaurant onboarding with <strong>Gemini AI</strong> — reduced manual entry by <strong>90%</strong></td>
-  </tr>
-  <tr>
-    <td>🌐</td>
-    <td><strong>IEEE Xtreme 18.0</strong> — Global Rank <strong>1,254</strong> · National Rank <strong>364</strong> (24-hour global coding marathon)</td>
-  </tr>
-  <tr>
-    <td>🥇</td>
-    <td><strong>ACM Winner</strong> — CtrlC+CtrlV Turtle Graphics · 3rd Place, Bid and Build Competition</td>
-  </tr>
-  <tr>
-    <td>📊</td>
-    <td>NPTEL Affective Computing — <strong>92% · Top 5%</strong> of 3,396 candidates (IIIT Delhi)</td>
-  </tr>
-  <tr>
-    <td>🐳</td>
-    <td>Built and deployed containerized <strong>multi-service architectures</strong> using Docker Compose</td>
-  </tr>
-</table>
 
 ---
 
@@ -100,70 +74,54 @@ status     : 3rd Year · Open to Internships & Full-Time Opportunities
 
 ## 🚀 Featured Projects
 
-<details open>
-<summary><b>🍽️ UniEat — Student Food Marketplace</b></summary>
-<br/>
+### 🍽️ UniEat &nbsp;—&nbsp; Student Food Marketplace
 
-> A two-sided marketplace for campus dining with real-time collaboration and AI-powered automation.
+*A two-sided marketplace for campus dining with real-time collaboration and AI-powered automation.*
 
-| | |
-|:--|:--|
-| 🔴 **Problem** | Students had no unified platform for ordering, splitting bills, or tracking campus food spend. |
-| 🟡 **Solution** | Real-time collaborative cart syncing via Firebase; automated bill-splitting with persistent debt tracking. Integrated Gemini 2.0 Flash to extract menu data from physical photos with **90%+ accuracy**. |
-| 🟢 **Impact** | Reduced restaurant onboarding time by **~90%**. Added a live "Busyness" indicator to help students avoid peak-hour queues. |
+```
+Stack  →  React Native · Firebase · Gemini AI · Razorpay
+```
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+**What I built**
+- Collaborative cart syncing in real-time using Firebase — multiple users, one shared order
+- AI-powered restaurant onboarding via Gemini 2.0 Flash — extracts menu data from physical photos with **90%+ accuracy**, cutting onboarding time by ~90%
+- Automated bill-splitting with persistent debt tracking and a live campus "Busyness" indicator
 
-</details>
+---
 
-<br/>
+### 🍳 Let's Cook &nbsp;—&nbsp; Recipe Finder
 
-<details open>
-<summary><b>🍳 Let's Cook — Recipe Finder</b></summary>
-<br/>
+*Full-stack recipe discovery app with a clean REST API layer and containerized deployment.*
 
-> Full-stack recipe discovery app with a clean REST API and containerized multi-service deployment.
+```
+Stack  →  Angular · Spring Boot · PostgreSQL · Docker
+```
 
-| | |
-|:--|:--|
-| 🔴 **Problem** | No unified app for recipe search with user preference persistence and fast external API access. |
-| 🟡 **Solution** | Angular frontend backed by a Spring Boot REST API. PostgreSQL schema with external API caching for low-latency responses. |
-| 🟢 **Impact** | Containerized the full multi-service stack with Docker Compose — reproducible and deploy-ready. |
+**What I built**
+- Angular frontend communicating with a Spring Boot REST API for fast, structured data flow
+- PostgreSQL schema with external API response caching to reduce latency on repeat queries
+- Entire multi-service stack containerized with Docker Compose — reproducible across environments
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+---
 
-</details>
+### ♟️ ChessMate &nbsp;—&nbsp; Chess Learning App
 
-<br/>
+*Java chess application with an AI opponent and grandmaster match analysis tools.*
 
-<details open>
-<summary><b>♟️ ChessMate — Chess Learning App</b></summary>
-<br/>
+```
+Stack  →  Java · AI Algorithms
+```
 
-> Java-based chess application with an AI opponent and grandmaster match analysis tools.
-
-| | |
-|:--|:--|
-| 🔴 **Problem** | Existing chess tools lack integrated learning features for beginners and intermediate players. |
-| 🟡 **Solution** | Offline-capable chess engine in Java with three AI difficulty levels using strategic move-calculation algorithms. |
-| 🟢 **Impact** | Grandmaster match replay and analysis tools to support structured, level-by-level improvement. |
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![AI Algorithms](https://img.shields.io/badge/AI_Algorithms-6C757D?style=flat-square&logo=buffer&logoColor=white)
-
-</details>
+**What I built**
+- Offline-capable chess engine with three AI difficulty levels using strategic move-calculation
+- Grandmaster match loader with replay and move-by-move analysis for structured improvement
+- Full multiplayer support with no external dependencies
 
 ---
 
 ## 📌 More Projects
 
-> Explore more on my repositories → **[github.com/PremShankar11?tab=repositories](https://github.com/PremShankar11?tab=repositories)**
+Explore more → **[github.com/PremShankar11?tab=repositories](https://github.com/PremShankar11?tab=repositories)**
 
 ---
 
@@ -188,6 +146,7 @@ status     : 3rd Year · Open to Internships & Full-Time Opportunities
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premshankar123)
 [![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premshankar26112005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://prem-shankar-portfolio.lovable.app/)
+[![Resume](https://img.shields.io/badge/View_Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link-here)
 
 </div>
 
