@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=620&lines=Angular+%E2%80%A2+Spring+Boot+%E2%80%A2+React+Native+%E2%80%A2+Gemini+AI;Building+scalable+apps+with+real-world+impact;3rd+Year+%40+SSN+College+of+Engineering%2C+Chennai" alt="Subtitle Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=620&lines=I Am Prem Shankar S;Angular+%E2%80%A2+Spring+Boot+%E2%80%A2+React+Native+%E2%80%A2+Gemini+AI;Building+scalable+apps+with+real-world+impact;3rd+Year+%40+SSN+College+of+Engineering%2C+Chennai" alt="Subtitle Typing" />
 </div>
 
 <br/>
