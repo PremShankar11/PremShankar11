@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=620&lines=Building+full+stack+apps+with+real-world+impact;3rd+Year+%40+SSN+College+of+Engineering%2C+Chennai" alt="Subtitle Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=620&lines=Building+full+stack+apps+with+real-world+impact;4th+Year+%40+SSN+College+of+Engineering%2C+Chennai" alt="Subtitle Typing" />
 </div>
 
 <br/>
@@ -37,7 +37,7 @@ name       : Prem Shankar
 education  : B.E. Computer Science — SSN College of Engineering, Chennai (2023–2027)
 focus      : Full-Stack Development · AI Integration · Real-Time Systems
 interests  : Building products that solve real problems, end to end
-status     : 3rd Year · Open to Internships & Full-Time Opportunities
+status     : 4th Year · Open to Full-Time Opportunities
 ```
 
 ---
@@ -128,9 +128,8 @@ Stack  →  Java · AI Algorithms
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PremShankar11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremShankar11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PremShankar11&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremShankar11&layout=compact&theme=tokyonight&hide_border=true" height="175" />
 </div>
 
 <div align="center">
