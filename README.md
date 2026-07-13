@@ -111,7 +111,7 @@ Stack  →  React Native · Firebase · Gemini AI · Razorpay
 
 `Stack  →  Node.js · Express · Prisma · Supabase · PgBouncer · AWS EC2`
 
-[![URL Shortener](https://img.shields.io/badge/Repo-URL_Shortener-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/URLShortener)
+[![URL Shortener](https://img.shields.io/badge/Repo-URL_Shortener-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/Url-Shortener)
 
 ---
 
