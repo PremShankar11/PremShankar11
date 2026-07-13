@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premshankar123)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premshankar26112005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://prem-shankar-portfolio.lovable.app/)
-[![Resume](https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1u8bnDQ0TgAKYUuC_Qn3n7LlvKhtsBrXL/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1JJT_8JUEO-2Q0_xrStW5bNgyxt9NJ_tY/view?usp=sharing)
 
 </div>
 
@@ -95,27 +95,23 @@ Stack  →  React Native · Firebase · Gemini AI · Razorpay
 
 ---
 
-### 🍳 Let's Cook &nbsp;—&nbsp; Recipe Finder
+### 💸 Cash Pilot &nbsp;—&nbsp; Business Survival Engine
 
-*Full-stack recipe discovery app with a clean REST API layer and containerized deployment.*
+*A quantitative engine executing Monte Carlo simulations to forecast small business survival probabilities and maximize cash runway.*
 
-```
-Stack  →  Angular · Spring Boot · PostgreSQL · Docker
-```
+`Stack  →  Next.js · TypeScript · Tailwind CSS · FastAPI · PostgreSQL · NumPy`
 
-[![Lets Cook](https://img.shields.io/badge/Repo-Let's_Cook-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/Lets-Cook)
+[![Cash Pilot](https://img.shields.io/badge/Repo-Cash_Pilot-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/CashPilot)
 
 ---
 
-### ♟️ OpenChess &nbsp;—&nbsp; Chess Learning App
+### 🔗 URL Shortener &nbsp;—&nbsp; High-Availability Routing
 
-*Java chess application with an AI opponent and grandmaster match analysis tools.*
+*A scalable production link shortener optimized with connection pooling and deployed behind a reverse proxy for always-on request routing.*
 
-```
-Stack  →  Java · AI Algorithms
-```
+`Stack  →  Node.js · Express · Prisma · Supabase · PgBouncer · AWS EC2`
 
-[![OpenChess](https://img.shields.io/badge/Repo-OpenChess-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/OpenChess)
+[![URL Shortener](https://img.shields.io/badge/Repo-URL_Shortener-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/URLShortener)
 
 ---
 
@@ -145,7 +141,7 @@ Stack  →  Java · AI Algorithms
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premshankar123)
 [![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premshankar26112005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://prem-shankar-portfolio.lovable.app/)
-[![Resume](https://img.shields.io/badge/View_Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1u8bnDQ0TgAKYUuC_Qn3n7LlvKhtsBrXL/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1JJT_8JUEO-2Q0_xrStW5bNgyxt9NJ_tY/view?usp=sharing)
 
 </div>
 
