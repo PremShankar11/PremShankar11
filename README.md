@@ -90,8 +90,8 @@ status     : 4th Year · Open to Full-Time Opportunities
 Stack  →  React Native · Firebase · Gemini AI · Razorpay
 ```
 
-[![Customer App](https://img.shields.io/badge/Repo-Customer_App-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/customerapp)
-[![Hotel App](https://img.shields.io/badge/Repo-Hotel_App-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/hotelapp)
+[![Customer App](https://img.shields.io/badge/Repo-Customer_App-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/UniEat_CustomerApp)
+[![Hotel App](https://img.shields.io/badge/Repo-Hotel_App-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremShankar11/UniEat_HotelApp)
 
 ---
 
